@@ -1,4 +1,3 @@
-```python
 def convert(num, n):
     T = "0123456789ABCDEF"
     q, r = divmod(num, n)
@@ -35,4 +34,3 @@ m = 2
 p = 1
 
 solution(n,t,m,p)
-```
